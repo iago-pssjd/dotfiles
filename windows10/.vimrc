@@ -26,3 +26,4 @@ let R_path = 'C:\\Users\\i.gine\\AppData\\Local\\Programs\\R\\R-4.3.0\\bin\\x64'
 let R_editor_h = 60
 
 set backspace=indent,eol,start
+let R_external_term = 1
