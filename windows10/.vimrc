@@ -27,3 +27,6 @@ let R_editor_h = 60
 
 set backspace=indent,eol,start
 let R_external_term = 1
+
+au GUIEnter * simalt ~x
+set shell=C:\Users\i.gine\AppData\Local\Programs\Git\bin\bash.exe
