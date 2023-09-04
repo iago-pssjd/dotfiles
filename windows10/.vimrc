@@ -1,6 +1,6 @@
 colorscheme ron
 "set ruler
-set statusline=%<%f\ %(%n,%{winwidth(0)}%)\ %h%m%r%=%-14.(%l,%c%V%)\ %P
+set statusline=%<%{winnr()}\ %f\ %(%n,%{winwidth(0)}%)\ %h%m%r%=%-14.(%l,%c%V%)\ %P
 set guifont=Liberation\ Mono:h9
 
 
