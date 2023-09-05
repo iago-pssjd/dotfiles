@@ -14,6 +14,7 @@ Plug 'jalvesaq/Nvim-R', {'branch': 'stable'}
 Plug 'preservim/nerdtree'
 Plug 'lervag/vimtex'
 Plug 'chrisbra/csv.vim'
+Plug 'bling/vim-bufferline'
 
 call plug#end()
 
